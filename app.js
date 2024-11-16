@@ -39,3 +39,38 @@
 // }
 
 // addnum();
+
+   // Question no 04 //
+// function calculator(num1, num2, operator) {
+//     let result;
+
+//     if (operator === "+") {
+//         result = num1 + num2;
+//     } else if (operator === "-") {
+//         result = num1 - num2;
+//     } else if (operator === "*") {
+//         result = num1 * num2; 
+//     } else if (operator === "/") {
+//         result = num1 / num2; 
+//     } else {
+//         result = "Invalid operator"; 
+//     }
+//     document.write("The result is: " + result);
+//     return result;
+// }
+
+// let num1 = parseFloat(prompt("Enter the first number:"));
+// let num2 = parseFloat(prompt("Enter the second number:"));
+// let operator = prompt("Enter the operator (+, -, *, /):");
+// calculator(num1, num2, operator);
+
+
+  // Question no 05 //
+// function squareNumber(num) {
+//     return num * num; 
+// }
+
+// let number = parseFloat(prompt("Enter a number to square:"));
+// let result = squareNumber(number);
+// document.write("The square of " + number + " is: " + result);
+
